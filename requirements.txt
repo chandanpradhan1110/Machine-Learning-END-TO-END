@@ -5,4 +5,7 @@ seaborn>=0.13
 scikit-learn>=1.4
 flask>=3.0
 ipykernel>=6.29
+catboost
+xgboost
+lightgbm
 -e .
